@@ -1,3 +1,9 @@
+Temporal Leap Hierarchical Reinforcement Learning
+======
+Developed by Alex Zhao & Bowei He. This repo implements the algorithm Temporal Leap Hierarchical Reinforcement Learning. The code is based on the work by Nachum et al. https://github.com/tensorflow/models/tree/master/research/efficient-hrl
+
+______
+
 Code for performing Hierarchical RL based on the following publications:
 
 "Data-Efficient Hierarchical Reinforcement Learning" by
